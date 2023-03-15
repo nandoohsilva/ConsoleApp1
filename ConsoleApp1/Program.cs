@@ -15,6 +15,8 @@
 
             //Console.WriteLine($"É PRIMO: {IsPrimo(Numero)}");
 
+            //iniciando com git
+
             Console.WriteLine("Entre com 1 numero para fazer a adição: ");
             int num = Convert.ToInt32(Console.ReadLine());
 
